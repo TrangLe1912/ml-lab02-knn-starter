@@ -9,7 +9,7 @@
 
 > **KNN đưa ra dự đoán dựa trên “hàng xóm” như thế nào, và điều gì làm thay đổi những hàng xóm đó?**
 
-Lab này cố ý đi theo ba tầng:
+Bài lab được thiết kế theo ba tầng:
 
 1. **KNN tổng quát** trên các điểm 2D và nhãn A/B;
 2. **KNN from scratch** để hiểu thật sự thuật toán làm gì;

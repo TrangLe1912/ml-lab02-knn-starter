@@ -1,0 +1,6 @@
+data/*.csv
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+executed_*.ipynb
+.DS_Store
